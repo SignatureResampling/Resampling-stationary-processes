@@ -4,4 +4,8 @@ We study the problems of resampling stochastic processes based on a single path 
 
 For more information, please refer to the following:
 
-## Citation
+## Authors
+Zhixuan Jia (00034737@whu.edu.cn); Qidi Peng (qidi.peng@cgu.edu); Wenjie Gao (wenjie.gao@cgu.edu)
+
+## Corresponding Author:
+Qidi Peng
